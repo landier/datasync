@@ -3,4 +3,4 @@ azure-storage-blob==2.1.0
 requests==2.24.0
 schedule==0.6.0
 # Pinning Snowflake to 2.0.2 because latest version was not working with Python 3.7
-snowflake-connector-python==2.0.2
+snowflake-connector-python==2.8.3
